@@ -72,4 +72,3 @@ booknow/
 - `npm run preview`: Previews the production build locally.
 
 ---
-Built with ❤️ by your AI Coding Assistant.
